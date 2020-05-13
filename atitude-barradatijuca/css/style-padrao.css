@@ -1,15 +1,11 @@
 body {
   background-color: #1c1c1b;
   color: #fff;
-  padding-top: 38px;
 }
 .pre-bod{
   padding: 0;
-  z-index: 10;
-  position: fixed;
-  top: 0;
+  position: relative;
   width: 100%;
-  height: 0;
   margin: 0;
 }
 .bod > .social > a {
