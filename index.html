@@ -57,6 +57,9 @@ src="https://www.facebook.com/tr?id=826721027524662&ev=PageView
 <div class="container">
     <!--Section: Testimonials v.3-->
     <section id="section2" class="section team-section text-center pb-5 mb-5 wow fadeIn" data-wow-delay="0.3s">
+        <h1 class="font-weight-bold text-center h1">Acompanhe as transmissões</h1>
+        <div style="width: 100px; height: 5px; background-color: #ff7500; margin: 10px auto 50px; border-radius: 10px;"></div>
+        <p class="text-center mb-5 mx-auto w-responsive lead">Selecione a sua igreja local para assistir as transmissões online, você também pode ver a programação, o endereço e também entrar em contato</p>
         <ul class="nav nav-tabs worldmap-tabs" id="myTab" role="tablist">
             <li class="nav-item">
                 <a class="nav-link active" id="brasil-tab" data-toggle="tab" href="#brasil" role="tab" aria-controls="brasil" aria-selected="true" style="">Brasil</a>
@@ -127,14 +130,10 @@ src="https://www.facebook.com/tr?id=826721027524662&ev=PageView
                     </div>
                   </div>
             </div>
-
             <div class="tab-pane fade" id="mundo" role="tabpanel" aria-labelledby="mundo-tab">
                 <img src="img/mundo.png" alt="Mundo" style="width:100%; height:auto; padding: 50px 5vw; ">
-                <a href="#usa"></a>
-                <a href="#outrosestados">
-                    <a href="https://igrejabatistaatitude.com.br/#/pages/15815" class="world-pill">Orlando - US</a>
-                    <a href="https://igrejabatistaatitude.com.br/#/pages/13196" class="world-pill">Vancouver - CA</a>
-            </a>
+                <a href="https://igrejabatistaatitude.com.br/#/pages/15815" class="world-pill">Orlando - US</a>
+                <a href="https://igrejabatistaatitude.com.br/#/pages/13196" class="world-pill">Vancouver - CA</a>
             </div>
         </div>
     <!--Section heading-->
@@ -165,27 +164,27 @@ src="https://www.facebook.com/tr?id=826721027524662&ev=PageView
 
 <!-- Cross domain iframe resize -->
 <script type="text/javascript">
-// Get height of document
+  // Get height of document
 function getDocHeight(doc) {
-doc = doc || document;
-// from http://stackoverflow.com/questions/1145850/get-height-of-entire-document-with-javascript
-var body = doc.body, html = doc.documentElement;
-var height = Math.max( body.scrollHeight, body.offsetHeight, 
-    html.clientHeight, html.scrollHeight, html.offsetHeight );
-return height;
+    doc = doc || document;
+    // from http://stackoverflow.com/questions/1145850/get-height-of-entire-document-with-javascript
+    var body = doc.body, html = doc.documentElement;
+    var height = Math.max( body.scrollHeight, body.offsetHeight, 
+        html.clientHeight, html.scrollHeight, html.offsetHeight );
+    return height;
 }
 
 // send docHeight onload
 function sendDocHeightMsg(e) {
-var ht = getDocHeight();
-parent.postMessage( JSON.stringify( {'docHeight': ht} ), '*' );
+    var ht = getDocHeight();
+    parent.postMessage( JSON.stringify( {'docHeight': ht} ), '*' );
 }
 
 // assign onload handler 
 if ( window.addEventListener ) {
-window.addEventListener('load', sendDocHeightMsg, false);
+    window.addEventListener('load', sendDocHeightMsg, false);
 } else if ( window.attachEvent ) { // ie8
-window.attachEvent('onload', sendDocHeightMsg);
+    window.attachEvent('onload', sendDocHeightMsg);
 }
 </script>
 
