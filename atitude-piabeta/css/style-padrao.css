@@ -1,44 +1,8 @@
 body {
-  background-color: #fafafa;
-  color: rgb(0, 0, 0);
+  background-color: #1c1c1b;
+  color: #fff;
   
 }
-/* CLASSES DO BOOTSTRAP MODIFICADAS */
-.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
-  color: #212121;
-  background-color: transparent;
-  border-bottom: 0px solid #ff7500;
-  box-shadow: inset 0px -3px 0px #ff7500;
-}
-.nav-tabs .nav-link {
-  border: 0px solid transparent;
-  border-top-left-radius: .25rem;
-  border-top-right-radius: .25rem;
-}
-.nav-link {
-  display: block;
-  padding: .5rem 1rem;
-}
-
-a, a:hover  {
-  cursor: pointer;
-  color: #212121;
-}
-.worldmap-tabs{
-  border:none
-}
-.worldmap-tabs > li > a{
-  padding: 15px 30px;
-  font-size: 12px;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-.worldmap-tabs{
-  
-}
-
-/* FIM CLASSES DO BOOTSTRAP MODIFICADAS */
 .pre-bod{
   padding: 0;
   z-index: 10;
