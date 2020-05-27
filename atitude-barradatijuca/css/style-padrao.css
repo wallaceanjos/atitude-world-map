@@ -43,12 +43,15 @@ body {
   0%   {background-color: #ff7500;
     width: 0;
     height: 38px;
+    opacity: 1;
   }
   80%  {background-color: #ff7500; 
+    opacity: 0.3;
     height: 38px;
     width: 100%;}
-  100% {background-color: #212121;
-  height: 0;}
+  100% {background-color: #ff7500;
+  height: 0;
+  opacity: 1;}
 }
 .la-anim-13 {
   position: fixed;
@@ -57,7 +60,7 @@ body {
   z-index: 10;
   width: 100%;
   animation-name: loadbar;
-  animation-duration: 6s;
+  animation-duration: 5s;
 }
 /* loading animation end */
 .card-live > .pricing-right{
