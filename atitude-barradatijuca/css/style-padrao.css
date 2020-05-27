@@ -38,6 +38,40 @@ body {
 :hover.bod {
   box-shadow: 12px 12px 20px -12px rgba(0, 0, 0, 0.35);
 }
+/* loading animation begin */
+@keyframes loadbar {
+  0%   {background-color: #ff7500;
+    width: 0;
+    height: 38px;
+  }
+  80%  {background-color: #ff7500; 
+    height: 38px;
+    width: 100%;}
+  100% {background-color: #212121;
+  height: 0;}
+}
+.la-anim-13 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  width: 100%;
+  animation-name: loadbar;
+  animation-duration: 6s;
+}
+/* loading animation end */
+.card-live > .pricing-right{
+  background-color:#282828;
+  border-radius: 0 5px 5px 0
+}
+.card-live > .pricing-right > .card-footer > .card-title{
+  padding:33px 0 32px 0;
+  margin: 0;
+  border-radius: 100px;
+}
+.card-live > .pricing-right > .card-footer > .card-title > .badge{
+  background-color: #ff7500;
+}
 .mask {
   background-color: rgba(0, 0, 0, .3);
 }
