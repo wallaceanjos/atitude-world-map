@@ -48,7 +48,8 @@ body {
   80%  {background-color: #ff7500; 
     opacity: 0.3;
     height: 38px;
-    width: 100%;}
+    width: 100%;
+  }
   100% {background-color: #ff7500;
   height: 0;
   opacity: 1;}
