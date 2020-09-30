@@ -40,19 +40,23 @@ body {
 }
 /* loading animation begin */
 @keyframes loadbar {
-  0%   {background-color: #ff7500;
+  0%{
+    background-color: #ff7500;
     width: 0;
-    height: 38px;
-    opacity: 1;
-  }
-  80%  {background-color: #ff7500; 
+    height: 5px;
     opacity: 0.3;
-    height: 38px;
+  }
+  97%{
+    background-color: #ff7500; 
+    opacity: 1;
+    height: 4px;
     width: 100%;
   }
-  100% {background-color: #ff7500;
-  height: 0;
-  opacity: 1;}
+  100%{
+    background-color: #ff7500;
+    height: 0;
+    opacity: 1;
+  }
 }
 .la-anim-13 {
   position: fixed;
