@@ -13,59 +13,45 @@ Venha nos visitar será um prazer tê-lo em nossa família.
 Os horários marcados com  serão cultos com tradução em libras
 
 Domingo
-Escola Ministerial
-Domingo / 9h  e 17h
-É um curso de vida cristã, do básico ao avançado.
-
-Acontece nas salas de aula
-
-TL (Treinamento de Líderes)
-Domingo / 10h  e 18h
-A liderança veio para todos e atravez do treinamento de líderes você alcançará o amadurecimento que precisa para avançar em sua vida cristã.
-
-Acontece no templo principal
 
 Culto de Celebração
-Domingo / 11h  e 19h
+Domingo / 9h, 11h  e 19h
 É um encontro feito para família celebrar a Deus com toda reverência e alegria.
 
 Acontece no templo principal
 
+Segunda
+Preciosa Online
+Segunda / 19h
+O culto Preciosa acontece toda segunda-feira, às 19h pelo AtitudeTV no Youtube e uma vez por mês aos sábados de manhã, às 10h, não perca! Deus tem uma palavra edificante para você mulher.
+
+Acontece no templo principal
+
 Quarta
-Quarta da Conquista
-Quarta / 18h
+Culto da Conquista
+Quarta / 19h
 Com muito louvor, adoração e sempre uma palavra direcionada para homens.
 
 Acontece no templo kids
 
 Culto da Resposta
-Quarta / 19h
+Quarta / 20h
 Venha no culto de quarta feira e receba a resposta poderosa de Deus.
 
 Acontece no templo principal
 
 Sexta
-Motoculto
-Sexta / 19h30
-É o culto do motoclube Águias de Cristo. Venha nos fazer uma visita. Reunião Semanal.
 
-Acontece na tenda
-
-Ripe
-Sexta / 19h
+Base
+Sexta / 20h
 Culto de Adolescentes.
 
 Acontece no templo kids
 
 Sábado
-Preciosa
-Sábado / 9h
-O culto Preciosa acontece uma vez por mês aos sábados de manhã, não perca! Deus tem uma palavra edificante para você mulher.
-
-Acontece no templo principal
 
 Be One
-Sexta / 19h
+Sexta / 20h
 O Culto Be One é o culto de jovens da igreja Atitude, você que é jovem não pode ficar de fora!
 
 Acontece no templo kids
